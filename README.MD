@@ -67,7 +67,7 @@ Banckend:
 * [Prisma](https://www.prisma.io/)
 * [Postegressql](https://www.postgresql.org/)
 
-Devo ops:
+Devops:
 * [Docker](https://www.docker.com/)
 * [Railway](https://railway.app/)
 * [Netlify](https://www.netlify.com/)
