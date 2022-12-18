@@ -18,8 +18,6 @@
 </p>
 
 
-![RevoAPP Video](docs/video/RevoAPP.gif)
-
 
 <p align="center">
  <a href="#camera-demonstração">Demostração</a> •
@@ -35,6 +33,8 @@
 <div align=center>
 	<a href="https://revoapp.netlify.app/" target="_blank">🚀 Acesse o site por aqui 🚀</a>
 </div>
+
+![RevoAPP Video](docs/video/RevoAPP.gif)
 
 
 <div align=center>
