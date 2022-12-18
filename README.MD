@@ -18,7 +18,7 @@
 </p>
 
 
-![RevoAPP GIF](docs/video/RevoAPP.gif)
+![RevoAPP Video](docs/video/RevoAPP.mp4)
 
 
 <p align="center">
