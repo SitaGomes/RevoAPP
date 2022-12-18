@@ -6,11 +6,20 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d1bbc138-595e-4f2c-abc4-79fb90044bdf/deploy-status)](https://app.netlify.com/sites/revoapp/deploys)
 	
+<img alt="Languagues" src="https://img.shields.io/github/languages/count/SitaGomes/RevoAPP" />
+<img alt="Node" src="https://img.shields.io/node/v/npm" />
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen" />
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/SitaGomes/RevoAPP"/>
+
 </div>
 
 <p align=center>
     RevoAPP um applicativo que tem a missão de melhor e facilitar a conexão e interação as pessoas, a partir de uma plataforma aonde os usuários podem criar, participar e patrocinar eventos, criado por amigos ou não.
 </p>
+
+
+![RevoAPP GIF](docs/video/RevoAPP.gif)
+
 
 <p align="center">
  <a href="#camera-demonstração">Demostração</a> •
